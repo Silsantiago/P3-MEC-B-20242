@@ -1,0 +1,50 @@
+##Un objeto en Java puede ser creado sin una clase.{F}
+##La palabra clave super se utiliza para acceder a métodos de la clase actual.{F}
+##Los métodos estáticos en Java pertenecen a una instancia específica de una clase.{F}
+##En Java, todos los métodos en una interfaz deben ser públicos.{T}
+
+##¿Cuál de las siguientes afirmaciones es correcta sobre una clase en Java??
+{
+~Una clase puede contener solo métodos
+~Una clase puede contener solo variables
+=Una clase puede contener tanto variables como métodos.
+~Una clase no puede contener constructores
+}
+##¿Qué palabra clave se usa para evitar que una clase sea heredada?
+{
+=final.
+~static
+~private
+~protected
+}
+##¿Cómo se define un método en una interfaz en Java?
+{
+~Con la palabra clave static
+~Con la palabra clave abstract
+=Sin cuerpo y es implícitamente público.
+~Con la palabra clave private
+}
+##¿Qué se necesita para crear una instancia de una clase en Java?
+{
+=Usar el operador new.
+~Usar la palabra clave static
+~Declarar una clase final
+~Usar el método class
+}
+
+
+##¿Cuál es el propósito de la palabra clave this en Java?
+{
+~Referirse a la clase actual
+=Referirse al objeto actual.
+~Referirse a la clase base
+~Llamar a un método estático
+}
+
+##¿Qué se entiende por encapsulamiento en Java?
+{
+La capacidad de una clase para heredar de múltiples clases
+La habilidad de una clase para contener atributos y métodos en un solo lugar y proteger sus datos internos.
+La capacidad de un método para ser sobrecargado con diferentes parámetros
+El proceso de convertir una clase en una interfaz
+}
